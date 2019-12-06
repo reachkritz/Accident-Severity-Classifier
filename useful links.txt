@@ -1,0 +1,15 @@
+Some useful Links to study:
+
+1) chi squared
+
+https://en.wikipedia.org/wiki/Chi-squared_test
+
+2) decision tree algorithm and code
+
+https://machinelearningmastery.com/implement-decision-tree-algorithm-scratch-python/
+
+3) neural networks
+
+https://machinelearningmastery.com/neural-networks-crash-course/
+
+Descicion Trees.py is the full code for decision tree without using libraries.
